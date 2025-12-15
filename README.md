@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started: -->
 
-🚀 Frontend Developer passionate about building clean, responsive, and user-friendly web interfaces.<br>
-🎨 Strong understanding of HTML, CSS, and modern JavaScript for creating interactive UI components.
+Frontend Developer with strong skills in HTML, CSS, and JavaScript, focused on building responsive and accessible user interfaces. Experienced in developing single-page applications using React and managing application state with Redux. Proficient in modern CSS frameworks including Bootstrap and Tailwind CSS. Passionate about writing clean, maintainable code and continuously improving frontend performance and user experience.
+
 

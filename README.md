@@ -1,9 +1,13 @@
 ## Hi👋, I'm Linata Patil
-🚀 Frontend Developer passionate about building clean, responsive, and user-friendly web interfaces.<br>
-🧠 Strong understanding of HTML, CSS, and modern JavaScript for creating interactive UI components.<br>
-⚛️ Experienced in building single-page applications using React and managing state with Redux.<br>
-🎨 Skilled in styling with Bootstrap and Tailwind CSS to deliver mobile-first and visually appealing designs.<br>
-📚 Continuously learning new frontend tools and best practices to improve performance and user experience.
+Frontend Developer focused on building clean, responsive, and user-friendly web interfaces.
+
+- Strong foundation in **HTML, CSS, and modern JavaScript** for creating interactive UI components.
+- Experience in developing **single-page applications (SPAs)** using **React** and managing application state with **Redux**.
+- Skilled in building **mobile-first, responsive designs** using **Bootstrap** and **Tailwind CSS**.
+- Passionate about writing **clean, readable code** and continuously improving frontend best practices.
+- Actively learning and applying new tools to enhance **performance and user experience**.
+
+💼 **Actively looking for Frontend / React Developer internship or entry-level roles.**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linata-patil-46969131a/)

@@ -1,5 +1,5 @@
 ## Hi👋, I'm Linata Patil
-Frontend Developer focused on building clean, responsive, and user-friendly web interfaces.
+🚀 Frontend Developer focused on building clean, responsive, and user-friendly web interfaces.
 
 - Strong foundation in **HTML, CSS, and modern JavaScript** for creating interactive UI components.
 - Experience in developing **single-page applications (SPAs)** using **React** and managing application state with **Redux**.

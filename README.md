@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started: -->
 
-🚀 Frontend Developer passionate about building clean, responsive, and user-friendly web interfaces.
+🚀 Frontend Developer passionate about building clean, responsive, and user-friendly web interfaces.<br>
 🎨 Strong understanding of HTML, CSS, and modern JavaScript for creating interactive UI components.
 

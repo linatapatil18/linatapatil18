@@ -1,4 +1,4 @@
-# Hii 👋, I'm Linata Patil
+# Hii👋, I'm Linata Patil
 ## 💫 About Me:
 🚀 **Frontend Developer focused on building clean, responsive, and user-friendly web interfaces.**
 

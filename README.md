@@ -1,4 +1,4 @@
-## 💫 About Me:
+# 💫 About Me:
 🚀 **Frontend Developer focused on building clean, responsive, and user-friendly web interfaces.**
 
 - Strong foundation in **HTML, CSS, and modern JavaScript** for creating interactive UI components.
@@ -9,10 +9,10 @@
 
 💼 **Actively looking for Frontend / JavaScript / React Developer internship or entry-level roles.**
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linata-patil-46969131a/)
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

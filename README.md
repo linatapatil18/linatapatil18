@@ -7,7 +7,7 @@
 - Passionate about learning **latest technologies**, writing **clean, readable code** and continuously improving frontend best practices.
 - Actively learning and applying new tools to enhance **performance and user experience**.
 
-💼 **Actively looking for Frontend / JavaScript Developer / React Developer internship or entry-level roles.**
+💼 **Actively looking for Frontend / JavaScript / React Developer internship or entry-level roles.**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linata-patil-46969131a/)

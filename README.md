@@ -2,10 +2,10 @@
 ## 💫 About Me:
 🚀 **Frontend Developer** with a strong focus on building **clean, responsive, and user-centric web interfaces** using **modern JavaScript technologies.**
 
-- Strong foundation in **HTML, CSS, and modern JavaScript** for creating interactive UI components.
-- Experience in developing **single-page applications (SPAs)** using **React** and managing application state with **Redux**.
+- Strong foundation in **HTML, CSS, and modern JavaScript** for creating **interactive UI components.**
+- Experience in developing **single-page applications (SPAs)** using **React** and **managing application state** with **Redux**.
 - Skilled in building **mobile-first, responsive designs** using **Bootstrap** and **Tailwind CSS**.
-- Passionate about **writing clean, maintainable code** and continuously improving performance and **user experience.**
+- Passionate about **writing clean, maintainable code** and continuously improving **performance and user experience.**
 
 💼 **Actively seeking for Frontend / JavaScript / React Developer internship or Entry-level Opportunities.**
 

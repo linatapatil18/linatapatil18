@@ -1,4 +1,5 @@
-# 💫 About Me:
+# Hii 👋, I'm Linata Patil
+## 💫 About Me:
 🚀 **Frontend Developer focused on building clean, responsive, and user-friendly web interfaces.**
 
 - Strong foundation in **HTML, CSS, and modern JavaScript** for creating interactive UI components.

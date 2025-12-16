@@ -4,7 +4,7 @@
 - Strong foundation in **HTML, CSS, and modern JavaScript** for creating interactive UI components.
 - Experience in developing **single-page applications (SPAs)** using **React** and managing application state with **Redux**.
 - Skilled in building **mobile-first, responsive designs** using **Bootstrap** and **Tailwind CSS**.
-- Passionate about learning new technologoes, writing **clean, readable code** and continuously improving frontend best practices.
+- Passionate about learning **latest technologies**, writing **clean, readable code** and continuously improving frontend best practices.
 - Actively learning and applying new tools to enhance **performance and user experience**.
 
 💼 **Actively looking for Frontend / React Developer internship or entry-level roles.**

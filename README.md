@@ -7,7 +7,7 @@
 - Skilled in building **mobile-first, responsive designs** using **Bootstrap** and **Tailwind CSS**.
 - Passionate about **writing clean, maintainable code** and continuously improving **performance and user experience.**
 
-💼 **Actively seeking for Frontend / JavaScript / React Developer Entry-level Opportunities.**
+💼 **Actively seeking entry-level opportunities as a Frontend / React / JavaScript Developer.**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linata-patil-46969131a/)
